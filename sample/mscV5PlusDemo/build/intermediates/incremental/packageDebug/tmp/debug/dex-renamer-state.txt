@@ -1,0 +1,4 @@
+#Sat Dec 28 11:55:24 CST 2019
+base.0=C\:\\Users\\ggvjhg\\Downloads\\Android_awaken_exp1139_5e045014\\sample\\mscV5PlusDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
